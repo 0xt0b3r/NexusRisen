@@ -1,0 +1,25 @@
+Locales['en'] = {
+
+	['used_bread'] = 'you have used 1x bread',
+	['used_water'] = 'you have used 1x water',
+	['used_redbull'] = 'you have used 1x RedBull',
+	['used_icetea'] = 'you have used 1x Ice Tea',
+	['used_cocacola'] = 'you have used 1x CocaCola',
+	['used_soda'] = 'you have used 1x Soda',
+	['used_jusfruit'] = 'you have used 1x Fruit Punch',
+	['used_energy'] = 'you have used 1x Energy Drink',
+	['used_drpepper'] = 'you have used 1x Dr Pepper',
+	['used_limonade'] = 'you have used 1x Lemonade',
+	['used_chocolate'] = 'you have used 1x Chocolate',
+	['used_sandwich'] = 'you have used 1x Sandwhich',
+	['used_hamburger'] = 'you have used 1x Hamburger',
+	['used_cupcake'] = 'you have used 1x CupCake',
+	['used_croquettes'] = 'you have used 1x Croissant',
+	['used_pizza'] = 'you have used 1x Pizza Slice',
+	['used_bolcacahuetes'] = 'you have used 1x Bowl of Peanuts',
+	['used_bolnoixcajou'] = 'you have used 1x Bowl of Cashews',
+	['used_bolpistache'] = 'you have used 1x Bowl of Pisatchios',
+	['used_bolchips'] = 'you have used 1x Bowl of Chips',
+	['used_saucisson'] = 'you have used 1x Sausage',
+
+}
